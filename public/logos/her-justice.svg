@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="120" viewBox="0 0 360 120">
+  <rect width="360" height="120" fill="#fff"/>
+  <text x="40" y="55" font-family="'Helvetica Neue', Arial, sans-serif" font-size="48" fill="#e3222c" font-weight="600">HER</text>
+  <path d="M170 33 L195 60 L170 87" fill="none" stroke="#f58220" stroke-width="12" stroke-linecap="round"/>
+  <path d="M215 33 L190 60 L215 87" fill="none" stroke="#f58220" stroke-width="12" stroke-linecap="round"/>
+  <text x="230" y="55" font-family="'Helvetica Neue', Arial, sans-serif" font-size="48" fill="#f58220" font-weight="600">JUSTICE</text>
+  <text x="190" y="95" font-family="'Helvetica Neue', Arial, sans-serif" font-size="20" fill="#d6412e">Shift the Power</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="360" viewBox="0 0 420 360">
+  <defs>
+    <linearGradient id="crest-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fff8e7"/>
+      <stop offset="100%" stop-color="#fddfb1"/>
+    </linearGradient>
+  </defs>
+  <rect width="420" height="360" fill="url(#crest-bg)"/>
+  <g transform="translate(210 120) scale(0.7)">
+    <polygon points="0,-140 50,-80 120,-80 70,-30 80,40 0,10 -80,40 -70,-30 -120,-80 -50,-80" fill="#e1573a" stroke="#b03e24" stroke-width="8"/>
+    <polygon points="0,-110 35,-40 105,-40 45,0 60,70 0,30 -60,70 -45,0 -105,-40 -35,-40" fill="#f8e04e"/>
+    <g transform="scale(0.8)">
+      <polygon points="0,-70 80,0 0,70 -80,0" fill="#0a2e77"/>
+      <polygon points="0,-55 65,0 0,55 -65,0" fill="#ffffff"/>
+      <polygon points="0,-42 45,0 0,42 -45,0" fill="#c41f2c"/>
+    </g>
+  </g>
+  <text x="210" y="230" text-anchor="middle" font-family="'Times New Roman', serif" font-size="32" fill="#8b5418">First Filipino Regiment</text>
+  <g font-family="'Times New Roman', serif" fill="#1a1a1a" font-size="20" text-anchor="middle">
+    <text x="90" y="310">Laging Una</text>
+    <text x="210" y="310">Bahala Na</text>
+    <text x="330" y="310">Sulung</text>
+  </g>
+</svg>

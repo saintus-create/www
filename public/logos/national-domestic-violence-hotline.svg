@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="360" viewBox="0 0 360 360">
+  <rect width="360" height="360" fill="#fff"/>
+  <rect x="50" y="50" width="260" height="260" fill="none" stroke="#8a3fd1" stroke-width="14"/>
+  <text x="80" y="120" font-family="'Helvetica Neue', Arial, sans-serif" font-size="34" fill="#121212" font-weight="700" letter-spacing="1">
+    NATIONAL
+  </text>
+  <text x="80" y="170" font-family="'Helvetica Neue', Arial, sans-serif" font-size="34" fill="#121212" font-weight="700" letter-spacing="1">
+    DOMESTIC
+  </text>
+  <text x="80" y="220" font-family="'Helvetica Neue', Arial, sans-serif" font-size="34" fill="#121212" font-weight="700" letter-spacing="1">
+    VIOLENCE
+  </text>
+  <text x="80" y="270" font-family="'Helvetica Neue', Arial, sans-serif" font-size="34" fill="#121212" font-weight="700" letter-spacing="1">
+    HOTLINE
+  </text>
+  <rect x="80" y="285" width="20" height="20" fill="#e0202c"/>
+</svg>

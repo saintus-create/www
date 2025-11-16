@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="200" viewBox="0 0 320 200">
+  <defs>
+    <linearGradient id="triangle" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#fff"/>
+      <stop offset="100%" stop-color="#f4f4f4"/>
+    </linearGradient>
+  </defs>
+  <polygon points="160,12 310,188 10,188" fill="url(#triangle)" stroke="#d50000" stroke-width="14"/>
+  <text x="50%" y="70" text-anchor="middle" font-family="'Times New Roman', serif" font-size="48" fill="#111">GUESS</text>
+  <text x="50%" y="105" text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#111">U.S.A.</text>
+  <text x="50%" y="150" text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-size="44" fill="#d50000">?</text>
+</svg>

@@ -27,12 +27,7 @@
 	</DropdownMenuTrigger>
 	<DropdownMenuContent align="end" class="w-40">
 		{#each options as option}
-			<DropdownMenuItem
-				on:select={(event) => {
-					event.preventDefault()
-					option.action()
-				}}
-			>
+			<DropdownMenuItem on:select={option.action}>
 				{option.label}
 			</DropdownMenuItem>
 		{/each}

@@ -11,30 +11,30 @@
 
 	const featureSections = [
 		{
-			tag: 'Unlock the web',
-			title: 'Bring ChatGPT anywhere you browse',
-			copy: 'Atlas stays anchored to the page you are on, so it can summarize source material, fill forms, and capture details without tab juggling.',
+			tag: 'Share anywhere',
+			title: 'Bring your profile anywhere you browse',
+			copy: 'The profile panel anchors beside whatever site you are on, so you can reference reels, write-ups, or testimonials without leaving the page.',
 			cta: 'See browser view',
 			preview: 'Browser context',
 		},
 		{
-			tag: 'Pick up where you left off',
+			tag: 'Stay in sync',
 			title: 'Sessions remember the work in progress',
-			copy: 'When you reopen a tab, Atlas restores the conversation and the actions it took, letting you continue drafting or reviewing instantly.',
+			copy: 'Reopen a tab and the panel recalls the sections you edited, the assets you pinned, and the notes you drafted a moment before.',
 			cta: 'Review history',
 			preview: 'Timeline resumes',
 		},
 		{
 			tag: 'Take action for you',
-			title: 'Atlas can execute steps with a single request',
-			copy: 'From capturing research to booking follow-ups, Atlas runs the clicks for you while keeping every action visible and undoable.',
+			title: 'Single tap updates every surface',
+			copy: 'Swap screenshots, tweak copy, and publish the changes across every embed so your profile never drifts out of date.',
 			cta: 'Watch it act',
 			preview: 'Automations',
 		},
 		{
 			tag: 'Assist anywhere',
-			title: 'Surface Atlas exactly when you need it',
-			copy: 'Highlight text, open the command palette, or tap the tray icon. Atlas meets you at the cursor without covering your work.',
+			title: 'Surface it exactly when you need it',
+			copy: 'Highlight text, open the palette, or tap the tray icon—your profile appears beside the cursor without covering your work.',
 			cta: 'Open palette',
 			preview: 'Inline helper',
 		},
@@ -43,15 +43,15 @@
 	const infoTiles = [
 		{
 			title: 'You are in control',
-			copy: 'Visibility toggles keep Atlas private until you invite it into a page, and you can pause access anytime.',
+			copy: 'Visibility toggles keep the profile private until you invite it into a page, and you can pause access anytime.',
 		},
 		{
-			title: 'Assistants you trust',
-			copy: 'Atlas references sources directly from the tab so you can inspect anything it summarizes or drafts.',
+			title: 'Sources you trust',
+			copy: 'Every stat references the original dropbox, deck, or press clip so you can inspect anything you share.',
 		},
 		{
 			title: 'Simple to share',
-			copy: 'Hand off sessions to teammates with a link, or export insights into the systems you already use.',
+			copy: 'Hand off curated sessions to teammates with a link, or export highlights into the tools you already use.',
 		},
 	];
 
@@ -83,25 +83,25 @@
 		</div>
 		<CardContent class="mx-auto flex max-w-4xl flex-col items-center gap-10 p-0">
 			<div class="inline-flex items-center gap-2 rounded-full bg-primary/20 px-4 py-1 text-xs font-semibold text-white">
-				New
-				<span class="text-white/80">Atlas preview</span>
+				Personal profile
+				<span class="text-white/80">Executive view</span>
 			</div>
 			<div class="space-y-4">
-				<h1 class="text-4xl font-semibold tracking-tight text-foreground sm:text-5xl">ChatGPT Atlas</h1>
+				<h1 class="text-4xl font-semibold tracking-tight text-foreground sm:text-5xl">Your profile, thoughtfully arranged.</h1>
 				<p class="text-base text-muted-foreground sm:text-lg">
-					Meet ChatGPT where work already happens. Atlas is a lightweight companion that fades into the page while staying ready to finish the task.
+					Collect projects, placements, and press into a single view. Keep it calm, legible, and ready to share in seconds.
 				</p>
 			</div>
 			<div class="flex flex-col gap-3 sm:flex-row">
-				<Button size="lg">Get started</Button>
-				<Button variant="ghost" size="lg">Watch demo</Button>
+				<Button size="lg">View profile</Button>
+				<Button variant="ghost" size="lg">Share link</Button>
 			</div>
 			<Card class="w-full max-w-xl border border-border/50 bg-card shadow-lg">
 				<CardContent class="space-y-4 px-8 py-10">
-					<p class="text-sm font-medium text-muted-foreground">Meet Atlas</p>
-					<p class="text-2xl font-semibold text-foreground">ChatGPT rides along</p>
+					<p class="text-sm font-medium text-muted-foreground">Personal dossier</p>
+					<p class="text-2xl font-semibold text-foreground">Everything in one pane</p>
 					<p class="text-sm text-muted-foreground">
-						Stay in flow with a companion that notices context and suggests the next move without filling the screen.
+						Drop in your bio, featured projects, references, and availability. The layout keeps typography precise on every screen.
 					</p>
 				</CardContent>
 			</Card>

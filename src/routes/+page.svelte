@@ -87,7 +87,10 @@
 				<span class="text-white/80">Executive view</span>
 			</div>
 			<div class="space-y-4">
-				<h1 class="text-4xl font-semibold tracking-tight text-foreground sm:text-5xl">Your profile, thoughtfully arranged.</h1>
+				<h1 class="text-4xl font-semibold tracking-tight text-foreground sm:text-5xl">
+					<span class="block">Executive</span>
+					<span class="block">Summary</span>
+				</h1>
 				<p class="text-base text-muted-foreground sm:text-lg">
 					Collect projects, placements, and press into a single view. Keep it calm, legible, and ready to share in seconds.
 				</p>
